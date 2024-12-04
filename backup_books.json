@@ -1,0 +1,86 @@
+[
+    {
+        "id": 3,
+        "title": "Моби Дик",
+        "author": "Герман Мелвилл",
+        "year": 1851,
+        "status": true
+    },
+    {
+        "id": 4,
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остин",
+        "year": 1813,
+        "status": true
+    },
+    {
+        "id": 5,
+        "title": "Божественная комедия",
+        "author": "Данте",
+        "year": 1306,
+        "status": true
+    },
+    {
+        "id": 25,
+        "title": "stri234rzxvctn4x12g2",
+        "author": "stri243zvcx142nbxgert2",
+        "year": 1,
+        "status": true
+    },
+    {
+        "id": 15,
+        "title": "strisdffdgsagnsdfgg2441634655",
+        "author": "strinsdgsdfgfgsdgf152553453454",
+        "year": 1,
+        "status": true
+    },
+    {
+        "id": 18,
+        "title": "strisdffdsdfggsagnsdfgg2441634655",
+        "author": "strinsdgssdfgdfgfgsdgf152553453454",
+        "year": 1,
+        "status": true
+    },
+    {
+        "id": 20,
+        "title": "strisdffdsdfggsadfggnsdfgg2441634655",
+        "author": "strinsdgssdfgdfgfgsdfgdgf152553453454",
+        "year": 1,
+        "status": true
+    },
+    {
+        "id": 21,
+        "title": "aaaaaa",
+        "author": "fffffffffff",
+        "year": 1,
+        "status": true
+    },
+    {
+        "id": 22,
+        "title": "string",
+        "author": "string",
+        "year": 1,
+        "status": true
+    },
+    {
+        "id": 23,
+        "title": "string2",
+        "author": "string2",
+        "year": 1,
+        "status": true
+    },
+    {
+        "id": 24,
+        "title": "stri234ng2",
+        "author": "stri243ng2",
+        "year": 1,
+        "status": true
+    },
+    {
+        "id": 1,
+        "title": "stri234rtn412g2",
+        "author": "stri243142ngert2",
+        "year": 1,
+        "status": true
+    }
+]
