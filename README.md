@@ -137,5 +137,5 @@
    ```
 5. Для запуска тестов используйте файл:
     ```bash
-   tests/tests_book.by
+   tests/tests_book.py
    ```
