@@ -24,6 +24,7 @@
 - `pytest~=8.3.3` - фреймворк для тестирования
 - `aiohttp~=3.11.9` - ассинхронные запросы
 - `pytest-asyncio~=0.24.0` - ассинхронный плагин pytest
+- `redis~=4.6.0` - кэширование данных
 
 ## Структура проекта
 
@@ -98,8 +99,12 @@
    DB_HOST=localhost
    DB_PORT=5433
    DB_NAME=postgres_db
+   REDIS_PASSWORD=default
+   REDIS_USER=redis_user
+   REDIS_USER_PASSWORD=redis_pass
+   REDIS_PORT=6380
    ```
-4. Запустите docker контейнер c PostgreSQL:
+4. Запустите docker контейнер c PostgreSQL и redis:
 
    ```bash
    docker compose up -d
