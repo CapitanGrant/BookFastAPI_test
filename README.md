@@ -9,7 +9,7 @@
 
 - **Веб-фреймворк**: FastAPI
 - **ORM**: SQLAlchemy
-- **База данных**: PostgeSQL
+- **База данных**: PostgeSQL, Redis
 - **Система миграций**: Alembic
 
 ## Зависимости проекта
